@@ -1,5 +1,5 @@
 // Offline support. Bump VERSION whenever app files change, so phones pick up the new version.
-const VERSION = 'wk-v1';
+const VERSION = 'wk-v2';
 const FILES = [
   './', 'index.html', 'styles.css', 'manifest.webmanifest',
   'src/ui/app.js', 'src/ui/store.js',
